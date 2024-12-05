@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\lienHeTroGiup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\trangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\dangNhapViews\dangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\dangNhapViews\dangNhapTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\dangNhapViews\doiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\dangNhapViews\quenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyHopDongViews\quanLyHopDongControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyKhachHangViews\locThongTinKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyKhachHangViews\quanLyKhachHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyKhachHangViews\themKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyHopDongViews\locHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyHopDongViews\themHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyMauQuanTracViews\locMauQuanTrac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyMauQuanTracViews\themMauQuanTrac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyMauQuanTracViews\quanLyMauQuanTracControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyNhanVienViews\lichSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyNhanVienViews\locThongTinNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyNhanVienViews\themNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyNhanVienViews\quanLyNhanVienControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyNhanVienViews\thongBaoQuaEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\quanLyPhieuTraHangViews\quanLyPhieuTraHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\saoLuuPhucHoiViews\saoLuuPhucHoiControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\ucTrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

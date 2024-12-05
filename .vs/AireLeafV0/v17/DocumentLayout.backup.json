@@ -1,0 +1,1782 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI PC\\Desktop\\MQT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\ui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ui\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\models\\phieuketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\phieuketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\models\\saoluuphuchoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\saoluuphuchoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlyphieutrahangviews\\quanlyphieutrahangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyphieutrahangviews\\quanlyphieutrahangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlymauquantracviews\\quanlymauquantraccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\quanlymauquantraccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\ui\\lienhetrogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ui\\lienhetrogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyphieutrahangviews\\quanlyphieutrahangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyphieutrahangviews\\quanlyphieutrahangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\saoluuphuchoiviews\\saoluuphuchoicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\saoluuphuchoiviews\\saoluuphuchoicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\saoluuphuchoiviews\\saoluuphuchoicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\saoluuphuchoiviews\\saoluuphuchoicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\phieuketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\phieuketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\quanlynhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\quanlynhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlynhanvienviews\\quanlynhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\quanlynhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlymauquantracviews\\locmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\locmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlymauquantracviews\\quanlymauquantraccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\quanlymauquantraccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\mauquantraccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\mauquantraccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlymauquantracviews\\locmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\locmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlymauquantracviews\\themmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\themmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlymauquantracviews\\themmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\themmauquantrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlykhachhangviews\\locthongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\locthongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyhopdongviews\\lochopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\lochopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlynhanvienviews\\locthongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\locthongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlynhanvienviews\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\locthongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\locthongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\hopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\hopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlyhopdongviews\\lochopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\lochopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyhopdongviews\\quanlyhopdongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\quanlyhopdongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlyhopdongviews\\quanlyhopdongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\quanlyhopdongcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyhopdongviews\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlyhopdongviews\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlykhachhangviews\\locthongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\locthongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlykhachhangviews\\quanlykhachhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\quanlykhachhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlykhachhangviews\\quanlykhachhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\quanlykhachhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlykhachhangviews\\themkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\themkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlykhachhangviews\\themkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\themkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlynhanvienviews\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlynhanvienviews\\thongbaoquaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\thongbaoquaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\uctrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\uctrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\uctrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\uctrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\quanlynhanvienviews\\baocaohieusuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\baocaohieusuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\MSI PC\\Desktop\\MQT\\winformsapp1\\views\\dangnhapviews\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\quenmatkhaucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\quenmatkhaucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\saoluuphuchoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\saoluuphuchoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyphieutrahangviews\\quanlyphieutrahangcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyphieutrahangviews\\quanlyphieutrahangcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlymauquantracviews\\quanlymauquantraccontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\quanlymauquantraccontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlymauquantracviews\\locmauquantrac.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\locmauquantrac.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlymauquantracviews\\themmauquantrac.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlymauquantracviews\\themmauquantrac.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\baocaohieusuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\baocaohieusuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\locthongtinnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\locthongtinnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\doimatkhaucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\doimatkhaucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\models\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\dangnhaptaikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\dangnhaptaikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\baocaohieusuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\baocaohieusuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\thongbaoquaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\thongbaoquaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\uctrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\uctrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\ui\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ui\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlykhachhangviews\\themkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\themkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\ui\\lienhetrogiup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ui\\lienhetrogiup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\saoluuphuchoiviews\\saoluuphuchoicontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\saoluuphuchoiviews\\saoluuphuchoicontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\thongbaoquaemail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\thongbaoquaemail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\themnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\themnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyhopdongviews\\lochopdong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\lochopdong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlynhanvienviews\\quanlynhanviencontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlynhanvienviews\\quanlynhanviencontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\doimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\doimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\dangnhaptaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\dangnhaptaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\dangnhapviews\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\dangnhapviews\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlyhopdongviews\\quanlyhopdongcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlyhopdongviews\\quanlyhopdongcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\msi pc\\desktop\\mqt\\winformsapp1\\views\\quanlykhachhangviews\\locthongtinkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D08806-9A7F-43C0-870B-AC507456D1D0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\views\\quanlykhachhangviews\\locthongtinkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\quanlyhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quenMatKhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\doiMatKhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\BaoCaoHieuSuat.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThongBaoQuaEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\BaoCaoHieuSuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\locHopDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\themHopDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\dangnhaptaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\lichsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\capquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\thongbaoquaemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\dangnhapqrcodecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\winformsapp1\\lochopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\Desktop\\MVC3\\winformsapp1\\views\\locthongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\Desktop\\MVC3\\winformsapp1\\views\\themkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\Desktop\\MVC3\\winformsapp1\\views\\quanlykhachhangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\Desktop\\MVC3\\winformsapp1\\quanlyhopdong\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\Desktop\\MVC3\\winformsapp1\\quanlyhopdong\\lochopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "quanLyNhanVienControl.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:59:30.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "quanLyKhachHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAuwPAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:05:08.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhieuKetQua.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\PhieuKetQua.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\PhieuKetQua.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\PhieuKetQua.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\PhieuKetQua.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAAACUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:44:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaoLuuPhucHoi.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\SaoLuuPhucHoi.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\SaoLuuPhucHoi.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\SaoLuuPhucHoi.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\SaoLuuPhucHoi.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:34:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\trangChu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\UI\\trangChu.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\trangChu.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\UI\\trangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:18:55.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quanLyPhieuTraHangControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:50:36.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "quanLyMauQuanTracControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:08:38.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quanLyPhieuTraHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAPcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:34:12.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lienHeTroGiup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\lienHeTroGiup.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\UI\\lienHeTroGiup.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\lienHeTroGiup.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\UI\\lienHeTroGiup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:30:29.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "saoLuuPhucHoiControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:49:47.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "saoLuuPhucHoiControl.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:40:45.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "phieuKetQuaController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\phieuKetQuaController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\phieuKetQuaController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\phieuKetQuaController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\phieuKetQuaController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:31:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "quanLyNhanVienControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:38:24.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "locMauQuanTrac.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:35:11.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "locMauQuanTrac.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:38:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "quanLyMauQuanTracControl.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAqwB4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:53:10.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mauQuanTracController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\mauQuanTracController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\mauQuanTracController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\mauQuanTracController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\mauQuanTracController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:44:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "themMauQuanTrac.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAMsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:52:00.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "themMauQuanTrac.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:48:55.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\KhachHang.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwIQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:52:15.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "khachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\khachHangController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\khachHangController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\khachHangController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\khachHangController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:43:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "locThongTinKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAHEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:20:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "locHopDong.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:09:49.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "locThongTinNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:55:29.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "lichSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:26:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\NhanVien.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:21:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "nhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\nhanVienController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\nhanVienController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\nhanVienController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\nhanVienController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:22:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "locThongTinNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:02:31.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HopDong.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\HopDong.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\HopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\HopDong.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\HopDong.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:43:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "hopDongController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\hopDongController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\hopDongController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\hopDongController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\hopDongController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:13:28.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "locHopDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:39:15.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "quanLyHopDongControl.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAQwL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:33:10.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "quanLyHopDongControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:08:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "themHopDong.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAACwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:37:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "themHopDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\themHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:58:39.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "themNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwNMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:30:31.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "locThongTinKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:13:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "quanLyKhachHangControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\quanLyKhachHangControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:43:05.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "themKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:15:41.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "themKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:36:17.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "themNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:30:29.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "thongBaoQuaEmail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:49:23.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ucTrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\ucTrangChu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\ucTrangChu.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\ucTrangChu.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\ucTrangChu.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:19:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ucTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\ucTrangChu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\ucTrangChu.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\ucTrangChu.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\ucTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:13:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "baoCaoHieuSuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:48:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "quenMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:28:42.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "quenMatKhauController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\quenMatKhauController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\quenMatKhauController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\quenMatKhauController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\quenMatKhauController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:02:51.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "saoLuuPhucHoiController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\saoLuuPhucHoiController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\saoLuuPhucHoiController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\saoLuuPhucHoiController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\saoLuuPhucHoiController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:33:51.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "quanLyPhieuTraHangControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyPhieuTraHangViews\\quanLyPhieuTraHangControl.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:20:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "quanLyMauQuanTracControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\quanLyMauQuanTracControl.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:01.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "locMauQuanTrac.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\locMauQuanTrac.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:56:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "themMauQuanTrac.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyMauQuanTracViews\\themMauQuanTrac.Designer.cs",
+              "ViewState": "AgIAAOkBAAAAAAAAAAAgwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:02:49.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "baoCaoHieuSuat.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:04:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "locThongTinNhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\locThongTinNhanVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:14:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "lichSu.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\lichSu.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwF0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:07:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dangNhapTaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\dangNhapTaiKhoanController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\dangNhapTaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\dangNhapTaiKhoanController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\dangNhapTaiKhoanController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:19:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\DangNhap.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Models\\DangNhap.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\DangNhap.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:20:18.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "doiMatKhauController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\doiMatKhauController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\doiMatKhauController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\doiMatKhauController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\doiMatKhauController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:02:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dangNhapController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\dangNhapController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controllers\\dangNhapController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Controllers\\dangNhapController.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controllers\\dangNhapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:14:29.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "dangNhapTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwIgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:50:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "dangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhap.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\dangNhap.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhap.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\dangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:00:37.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "quenMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:02:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "doiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:02:12.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "thongBaoQuaEmail.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAKQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:24:44.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "baoCaoHieuSuat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\baoCaoHieuSuat.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:04:00.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ucTrangChu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\ucTrangChu.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\ucTrangChu.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\ucTrangChu.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\ucTrangChu.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:58:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "trangChu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\trangChu.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\UI\\trangChu.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\trangChu.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\UI\\trangChu.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:46:04.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "themKhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\themKhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:48:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "lienHeTroGiup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\lienHeTroGiup.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\UI\\lienHeTroGiup.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\UI\\lienHeTroGiup.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\UI\\lienHeTroGiup.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:54:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "saoLuuPhucHoiControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\saoLuuPhucHoiViews\\saoLuuPhucHoiControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:39:58.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "thongBaoQuaEmail.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\thongBaoQuaEmail.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:40:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "themNhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\themNhanVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:14:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "locHopDong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\locHopDong.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:04:49.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "quanLyNhanVienControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyNhanVienViews\\quanLyNhanVienControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:02:19.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "doiMatKhau.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\doiMatKhau.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:04:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "dangNhapTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\dangNhapTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:04:29.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "quenMatKhau.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\quenMatKhau.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:02:20.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "dangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\dangNhapViews\\dangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\dangNhapViews\\dangNhap.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\dangNhapViews\\dangNhap.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:00:44.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "quanLyHopDongControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyHopDongViews\\quanLyHopDongControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:00:14.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "locThongTinKhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MQT\\WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Views\\quanLyKhachHangViews\\locThongTinKhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:47:55.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "quanLyHopDong.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:34:57.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CapQuyen.Designer.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.Designer.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.Designer.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAjwAQBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:30:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "quenMatKhau.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quenMatKhau.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quenMatKhau.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:56:45.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "doiMatKhau.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\doiMatKhau.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\doiMatKhau.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:25:57.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ThemNhanVien.Designer.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.Designer.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.Designer.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:21:54.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ThemNhanVien.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:21:25.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "quanLyNhanVien.Designer.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.Designer.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v2wAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:59:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "LichSu.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:43:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "BaoCaoHieuSuat.Designer.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\BaoCaoHieuSuat.Designer.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\BaoCaoHieuSuat.Designer.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAjwHEBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:32:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ThongBaoQuaEmail.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThongBaoQuaEmail.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThongBaoQuaEmail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:42:21.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "LichSu.Designer.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.Designer.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.Designer.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAjwB4BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:43:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "BaoCaoHieuSuat.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\BaoCaoHieuSuat.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\BaoCaoHieuSuat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:32:49.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "CapQuyen.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:29:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "quanLyNhanVien.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:58:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "dangNhapTaiKhoan.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:43:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "locHopDong.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\locHopDong.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\locHopDong.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:05:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "themHopDong.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\themHopDong.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\themHopDong.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:25:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "quanLyHopDong.Designer.cs",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.Designer.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvxcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:40:41.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "themHopDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\QuanLyHopDong\\themHopDong.cs",
+              "RelativeDocumentMoniker": "..\\MVC3\\WinFormsApp1\\QuanLyHopDong\\themHopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\QuanLyHopDong\\themHopDong.cs [Design]",
+              "RelativeToolTip": "..\\MVC3\\WinFormsApp1\\QuanLyHopDong\\themHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:19:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "locHopDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\QuanLyHopDong\\locHopDong.cs",
+              "RelativeDocumentMoniker": "..\\MVC3\\WinFormsApp1\\QuanLyHopDong\\locHopDong.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\QuanLyHopDong\\locHopDong.cs [Design]",
+              "RelativeToolTip": "..\\MVC3\\WinFormsApp1\\QuanLyHopDong\\locHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:45:18.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "locThongTinKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\Views\\locThongTinKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\MVC3\\WinFormsApp1\\Views\\locThongTinKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MVC2\\WinFormsApp1\\Views\\locThongTinKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\MVC2\\WinFormsApp1\\Views\\locThongTinKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:47:53.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "themKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\Views\\themKhachHang.cs",
+              "RelativeDocumentMoniker": "..\\MVC3\\WinFormsApp1\\Views\\themKhachHang.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MVC2\\WinFormsApp1\\Views\\themKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\MVC2\\WinFormsApp1\\Views\\themKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:20:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "quanLyKhachHangControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\Desktop\\MVC3\\WinFormsApp1\\Views\\quanLyKhachHangControl.cs",
+              "RelativeDocumentMoniker": "..\\MVC3\\WinFormsApp1\\Views\\quanLyKhachHangControl.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\Desktop\\MVC2\\WinFormsApp1\\Views\\quanLyKhachHangControl.cs [Design]",
+              "RelativeToolTip": "..\\MVC2\\WinFormsApp1\\Views\\quanLyKhachHangControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:42:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "quanLyHopDong.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:34:26.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "dangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhap.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:19:26.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "dangNhapTaiKhoan.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapTaiKhoan.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:43:09.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "themHopDong.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\themHopDong.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\themHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:25:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "doiMatKhau.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\doiMatKhau.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\doiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:25:55.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "quenMatKhau.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quenMatKhau.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:21:42.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "quanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\quanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:05:20.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ThemNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:24:05.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "LichSu.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\LichSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:44:32.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CapQuyen.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\CapQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:44:28.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ThongBaoQuaEmail.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThongBaoQuaEmail.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\ThongBaoQuaEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:44:10.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "dangNhapQRCodecs.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapQRCodecs.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\dangNhapQRCodecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:37:16.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "locHopDong.cs [Design]",
+              "DocumentMoniker": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\locHopDong.cs",
+              "ToolTip": "E:\\7. Cu\u1ED1i k\u00EC CNPM\\BV1\\WinFormsApp1\\locHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:05:20.37Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
